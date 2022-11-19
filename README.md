@@ -1,6 +1,6 @@
 
 
-<h1 align="center">⚜️ᗷOT ᗴᒪᘜᗩᘔᗩᖇ⚜️<br></h1>
+<h1 align="center">⚜️ᗷOT SHADOW⚜️<br></h1>
 <p align="center">
 <img src="https://telegra.ph/file/9d09a00e6c16ca29eead1.jpg" alt="animated" width="540" height="280" />
 </p>
