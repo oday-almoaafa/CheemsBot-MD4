@@ -70,7 +70,7 @@ global.botscript = 'https://chat.whatsapp.com/GFopJ8Hty40Jw9gUkNH4Zt' //script l
 global.reactmoji = "🌚" //ur menu react emoji
 global.themeemoji = "🌞" //ur theme emoji
 global.packname = "⍣عدوش⍣" //ur sticker watermark packname
-global.author = "⍣967733283184⍣" //ur sticker watermark author
+global.author = "⍣967774355313⍣" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
